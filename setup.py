@@ -57,7 +57,7 @@ setup(
         'scikit-learn>=0.19.0',
         'pydotplus>=2.0.0',
         'matplotlib>=2.0.0',
-        'tableone>=0.6.0'
+        'tableone>=0.8.0'
         ],
 
     # List additional groups of dependencies here (e.g. development
