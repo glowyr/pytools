@@ -2,7 +2,7 @@
 The datathon package is a collection of helper functions used when running datathons.
 """
 
-__version__ = "0.2.0"
+__version__ = "0.2.1"
 
 import pandas as pd
 import numpy as np
